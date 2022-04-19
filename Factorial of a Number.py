@@ -8,3 +8,19 @@ else:
         fact=fact*i
     else:
         print(fact)
+        
+        
+        
+        
+        
+        #Factorial using Recursion
+def fact(n):
+    if n==0:
+        return 1
+    else:
+        return n*fact(n-1)
+    
+n=int(input('Enter a Number : '))
+fact(n)
+result=fact(n)
+print(result)
