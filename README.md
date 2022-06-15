@@ -1,2 +1,2 @@
 # Logic_programs_python
-Logical programs that I'd practiced
+Logical programs that I've practiced
